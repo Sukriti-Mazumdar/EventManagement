@@ -8,24 +8,6 @@ EasyEvent is a comprehensive event management platform built with React and Node
 
 ![Image](frontend/src/assets/screenshot.png)
 
-## 📋 Table of Contents
-
-
-- [System Overview](#-system-overview)
-- [Technology Stack](#%EF%B8%8F-technology-stack)
-- [Architecture](#%EF%B8%8F-architecture)
-- [Installation and Setup](#-installation-and-setup)
-- [Key Features](#-key-features)
-- [API Documentation](#-api-documentation)
-- [Security Features](#-security-features)
-- [Error Handling](#%EF%B8%8F-error-handling)
-- [Performance Optimization](#-performance-optimization)
-- [Testing](#-testing-not-updated-yet)
-- [Deployment](#-deployment-not-updated-yet)
-- [Contributing](#-contributing)
-- [Support](#-support)
-- [License](#-license)
-
 ## 🎯 System Overview
 
 EasyEvent supports three user roles:
@@ -292,10 +274,4 @@ DELETE /api/admin/users/:id    # Delete user
 - Connection pooling
 - Response caching
 - Compression
-
-
-
-
-
-[Live Demo](https://easyevent.com/) | [Report Bug](https://github.com/devops-dtc/eventmanagement/issues)
 
