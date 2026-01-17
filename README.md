@@ -293,69 +293,9 @@ DELETE /api/admin/users/:id    # Delete user
 - Response caching
 - Compression
 
-## 🧪 Testing (Not Updated Yet)
 
-### Frontend Testing
 
-```bash
-cd frontend
-npm run test        # Run unit tests
-npm run test:e2e    # Run E2E tests
-```
 
-### Backend Testing
-
-```bash
-cd backend
-npm run test        # Run unit tests
-npm run test:integration  # Run integration tests
-```
-
-## 📦 Deployment (Not Updated Yet)
-
-### Frontend Deployment
-
-- Build the production version:
-
-```bash
-cd frontend
-npm run build
-```
-
-### Backend Deployment
-
-- Prepare for production:
-
-```bash
-cd backend
-npm run build
-```
-
-### Environment Considerations
-
-- Set up proper environment variables
-- Configure database connections
-- Set up SSL certificates
-- Configure server security
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📞 Support
-
-- GitHub Issues: [Create an issue](https://github.com/devops-dtc/eventmanagement/issues)
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](README.md) file for details.
-
----
-
-Made with ❤️ by the EasyEvent Team
 
 [Live Demo](https://easyevent.com/) | [Report Bug](https://github.com/devops-dtc/eventmanagement/issues)
 
