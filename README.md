@@ -6,7 +6,7 @@
 
 EasyEvent is a comprehensive event management platform built with React and Node.js, designed to streamline the process of creating, managing, and attending events.
 
-![Image](frontend/src/assets/Picture1.png)
+![EasyEvent Screenshot](docs/images/Picture1.png)
 
 ## 🎯 System Overview
 
