@@ -1,4 +1,4 @@
-![Image](frontend/src/assets/Banner.png)
+![EasyEvent Banner](assets/Banner.png)
 
 # EasyEvent - Modern Event Management System
 
@@ -6,7 +6,20 @@
 
 EasyEvent is a comprehensive event management platform built with React and Node.js, designed to streamline the process of creating, managing, and attending events.
 
-![EasyEvent Screenshot](docs/images/Picture1.png)
+![EasyEvent Screenshot](assets/Picture1.png)
+
+## 📋 Table of Contents
+
+
+- [System Overview](#-system-overview)
+- [Technology Stack](#%EF%B8%8F-technology-stack)
+- [Architecture](#%EF%B8%8F-architecture)
+- [Installation and Setup](#-installation-and-setup)
+- [Key Features](#-key-features)
+- [API Documentation](#-api-documentation)
+- [Security Features](#-security-features)
+- [Error Handling](#%EF%B8%8F-error-handling)
+
 
 ## 🎯 System Overview
 
